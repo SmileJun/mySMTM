@@ -7,6 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
-점주인지 알바생인지 선택하는 페이지입니다.
+	<button>
+		<a href="userSignUp.jsp">점주</a>
+	</button>
+	
+	<button>
+		<a href="userSignUp.jsp">알바</a>
+	</button>
 </body>
 </html>
